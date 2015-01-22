@@ -8,8 +8,8 @@ __Contexte :__
 coding dojo toutes les 2 semaines entre midi et deux (~1h30) avec un noyau fixe d'une petite dizaine de personnes.
 
  * [#1 Roman Numerals](#roman-numerals)
- * [#2 String calculator](string-calculator)
- * [#3 Mars Rover](mars-rover)
+ * [#2 String calculator](#string-calculator)
+ * [#3 Mars Rover](#mars-rover)
  * #4 OCR Bank
  * #5 Refactoring : Guilded Rose
  * #6 Refactoring : Katastrophic
