@@ -7,14 +7,14 @@ Je vais profiter de la série de Coding dojo actuelle pour écrire sur les katas
 __Contexte :__
 coding dojo toutes les 2 semaines entre midi et deux (~1h30) avec un noyau fixe d'une petite dizaine de personnes.
 
- * [Roman Numerals]
- * [String calculator]
- * [Mars Rover]
- * [OCR Bank]
- * [Refactoring : Guilded Rose]
- * [Refactoring : Katastrophic]
+ * [#1 Roman Numerals](#roman-numerals)
+ * [#2 String calculator](string-calculator)
+ * [#3 Mars Rover](mars-rover)
+ * #4 OCR Bank
+ * #5 Refactoring : Guilded Rose
+ * #6 Refactoring : Katastrophic
 
-## #1 Roman Numerals 
+## Roman Numerals 
 
 __Objectif :__  Écrire une méthode de conversion d'un nombre arabe en nombre romain
 ```
@@ -50,7 +50,7 @@ __Attention__ à ne pas vouloir diriger les gens vers votre solution, il existe 
 
 __Attention__ à faire en sorte que le refactoring ermerge du code, n'hésitez pas à faire revenir en arrière une personne qui avait une idée en tête et qui casse tout pour proposer/ imposer sa solution.
 
-## #2 String Calculator
+## String Calculator
 
 __Objectif :__  Écrire une méthode qui prend en paramètre une chaine de caractère contenant des entiers, et qui retourne la somme de ces entiers.
 
@@ -91,20 +91,20 @@ Voici le lien vers un fichier pdf que j'ai imprimé sur papier cartonné, chaque
 
 Pour pimenter un peu la chose, [on](https://twitter.com/avernois) m'a conseillé d'introduire la contrainte des Objects Calisthenics à ce kata.
 ```
-    Only One Level Of Indentation Per Method
-    Don't Use The ELSE Keyword
-    Wrap All Primitives And Strings
-    First Class Collections
-    One Dot Per Line
-    Don't Abbreviate
-    Keep All Entities Small
-    No Classes With More Than Two Instance Variables
-    No Getters/Setters/Properties
+    1. Only One Level Of Indentation Per Method
+    2. Don't Use The ELSE Keyword
+    3. Wrap All Primitives And Strings
+    4. First Class Collections
+    5. One Dot Per Line
+    6. Don't Abbreviate
+    7. Keep All Entities Small
+    8. No Classes With More Than Two Instance Variables
+    9. No Getters/Setters/Properties
 ```
 
 Cela permet de secouer un peu la façon de coder, de sortir les personnes de leur zone de confort.
 
-__Durant cette session, on a parlé de : __
+__Durant cette session, on a parlé de :__
  
  * Sortir de la zone de confort
  * Primitives obsessions
@@ -112,7 +112,7 @@ __Durant cette session, on a parlé de : __
  * Guard Close (no else)
  
  
- ## #3 Mars Rover
+ ## Mars Rover
 
 __Objectif :__  Écrire une méthode qui prend en paramètre une chaine de caractère contenant une liste de commande, et qui déplace notre robot Mars Rover en fonction sur une grille.
 
@@ -139,7 +139,7 @@ Je trouve cette application plus concrête que les précédentes et donne souven
 
 Pour notre sessions, nous étions un gros groupe d'une 20ène de personne, du coup il y a eu 2 kata en parallèle dans 2 salles différentes et des langages de programmation différents !
 
-__Durant cette session, on a parlé de : __
+__Durant cette session, on a parlé de :__
  
  * Domaine métier
  * Faire émerger les concepts
